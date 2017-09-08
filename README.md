@@ -1,1 +1,3 @@
-# cmse_bootcamp_git_tutorial_Fall2017
+# CMSE git tutorial (part of the CMSE boot camp)
+
+This repository is going to be used for the CMSE Git bootcamp
